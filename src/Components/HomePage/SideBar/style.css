@@ -1,0 +1,6 @@
+.sideBarOn {
+  transform: translateX(0);
+}
+.sideBarOff {
+  transform: translateX(100%);
+}
